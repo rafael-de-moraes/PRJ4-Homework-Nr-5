@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url("../images/grass-background-stockpack-adobe-stock-scaled.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.header {
+	background-image: url("../images/8f6f0a3ba8aef2e360fc5ac7c946a956.jpg");
+	background-attachment: scroll;
+    background-size: cover;
+	padding-bottom: 70px;	
+}
+
+h1 {
+	font-size: 38pt;
+	text-align: center;
+	padding-top: 60px;
+	font-family: 'Impact', 'Haettenschweiler', "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:yellow;
+	}
+
+h3 {
+    color:yellow;
+	text-align: center;
+	font-family: 'Impact', 'Haettenschweiler', "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+h2 {
+	text-align: center;
+	padding-top: 60px;
+	font-size: 38pt;	
+}
+
+h4 {
+	text-align: center;
+	font-size: 17pt;
+	font-style: italic;
+	
+}
+
+h5{
+	text-align: center;
+	font-size: 17pt;
+	font-style: italic;
+}
+
+.contentleft {
+	
+	padding-top: 40px;
+	padding-left: 70px;
+}
+
+.firstrow{
+	background-color: antiquewhite;
+	margin-right: 50px;
+}
+
+.bottomimage2 {	
+ width: 370px;
+height: 370px;
+padding-left: 50px;
+padding-right: -50px;    
+}
+
+.bottomimage {
+	padding-left: 120px;
+	
+}
+
+.row2 {
+	background-color: aliceblue;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-right: 50px;
+	margin-top: 10px;
+	
+}
+
+.contentmid{
+	padding-top: 40px;
+}
+
+.contentright {	
+	padding-top: 40px;
+}
+
+.footer{
+	margin-left: 50px;
+}
